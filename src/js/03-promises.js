@@ -21,7 +21,7 @@ function onFormSubmit(e) {
   });
   delay += step;
 	}
-	e.currentTarget.reset();
+	// e.currentTarget.reset();
 }
 
 
